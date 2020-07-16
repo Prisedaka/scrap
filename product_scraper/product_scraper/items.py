@@ -11,4 +11,9 @@ import scrapy
 class ProductScraperItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    h1 = scrapy.Field()
+    h2 = scrapy.Field()
+    h3 = scrapy.Field()
+    h4 = scrapy.Field()
+    p = scrapy.Field()
+    # pass
