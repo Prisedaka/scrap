@@ -25,7 +25,7 @@ $ source env/bin/activate
 windows
 
 ```
-$ source env/bin/activate.bat
+$ env/Scripts/activate.bat
 ```
 
 Install Scrapy:
